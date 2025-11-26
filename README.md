@@ -1,1 +1,2 @@
 # SURE-Pipe_benchmarking_data
+Due to the File size limitaions all the raw and analysed FASTA can be accessible in https://zenodo.org/records/17640210?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQzNGJkNGUxLTI0NGMtNGE5MC04OWQ0LTg0NjFkZWIyM2MyMSIsImRhdGEiOnt9LCJyYW5kb20iOiIwNjA4OGVkYjRmZTVkZmM2NDEzNGY5OWM0YzdlZDVkZCJ9.QXRzNyTIhyKo8-9qRKvwwXycGy0_lfBLANoWMMBvEleupIYQV6qJJj4lOpoB1Pg0-9OOIYk_UFOMFROChsRvyA it may request corresponding author approval.

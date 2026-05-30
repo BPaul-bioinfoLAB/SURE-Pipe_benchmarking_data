@@ -4,7 +4,9 @@
 
 # SURE-Pipe_benchmarking_data
 Due to the File size limitaions all the raw and analysed FASTA can be accessible in below DOI links at Mendeley data.
-1. Thomas, Infant  (2026), “SURE-PIpe Benchmarking datasets”, Mendeley Data, V1, doi: 10.17632/tgwdzc5kxg.1
-   (link: https://data.mendeley.com/datasets/tgwdzc5kxg/1)  
-2. Thomas, Infant  (2026), “SURE-Pipe Benchmarking (sclability)”, Mendeley Data, V1, doi: 10.17632/mfp9sghcm8.1
+1. Thomas, Infant  (2026), “SURE-Pipe Benchmarking datasets”, Mendeley Data, V1, doi: 10.17632/tgwdzc5kxg.1
+   (link: https://data.mendeley.com/datasets/tgwdzc5kxg/1)
+   It contains the Pairwise genome comparison, groupwise genome comparsion, benchmarking data incuding adoptability, comparison with FUR and KEC,
+3. Thomas, Infant  (2026), “SURE-Pipe Benchmarking (scalability)”, Mendeley Data, V1, doi: 10.17632/mfp9sghcm8.1
    (link: https://data.mendeley.com/datasets/mfp9sghcm8/1)
+   It contain the Scalability assessemnt of the Sure-Pipe

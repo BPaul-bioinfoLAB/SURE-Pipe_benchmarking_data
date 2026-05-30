@@ -9,4 +9,4 @@ Due to the File size limitaions all the raw and analysed FASTA can be accessible
    It contains the Pairwise genome comparison, groupwise genome comparsion, benchmarking data incuding adoptability, comparison with FUR and KEC,
 3. Thomas, Infant  (2026), “SURE-Pipe Benchmarking (scalability)”, Mendeley Data, V1, doi: 10.17632/mfp9sghcm8.1
    (link: https://data.mendeley.com/datasets/mfp9sghcm8/1)
-   It contain the Scalability assessemnt of the Sure-Pipe
+   It contain the Scalability assessement of the Sure-Pipe
